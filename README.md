@@ -8,3 +8,5 @@ To understand my code u can follow the steps given below:
 i)energy ii)correlation iii)homogenity iv)contrast
 6)all these formula have been mentioned and calculated.
 7)then storing into array and classifying it using K means clustering.
+Dataset i have refereced is in this link
+https://www.kaggle.com/zhouhq/classification-of-flowers-a-multiclass-problem/data
